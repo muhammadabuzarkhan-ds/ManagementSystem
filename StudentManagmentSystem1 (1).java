@@ -15,7 +15,6 @@ public class StudentManagmentSystem1{
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         
-        // Display header
         System.out.println("==================================================");
         System.out.println("            STUDENT MANAGEMENT SYSTEM           ");
         System.out.println("          Java Console-Based Application        ");
